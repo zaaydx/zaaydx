@@ -6,7 +6,7 @@ A software developer still learning
 
 * 🌍  I'm based in Fes, Morocco
 * ✉️  You can contact me at [zchbani@student.1337.ma](mailto:zchbani@student.1337.ma)
-* 🧠  I'm learning web3, react.js, next.js...
+* 🧠  I'm learning javascript frameworks
 
 <a href="https://www.twitter.com/chbanizayd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/chbanizayd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
