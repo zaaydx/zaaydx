@@ -29,6 +29,8 @@ src="https://img.shields.io/github/followers/zaaydx?logo=github&style=for-the-ba
 
 ### Badges
 
+<b>My 1337 Badge</b>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zchbani" alt="zchbani's 42 stats" /></a>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/zaaydx"><img src="https://activity-graph.herokuapp.com/graph?username=zaaydx&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
