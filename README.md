@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/zaaydx?logo=github&style=for-the-ba
 
 ### Badges
 
-<div>
+<div class='center'>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/zchbani" alt="zchbani's 42 stats" /></a>
 </div>
 
